@@ -1,7 +1,6 @@
 # XAMPP
 This is a IOT enabled Project NODEMCU Sending temperature and humidity values to local server(PHPMYADMIN)
 
-
 • in this project we are sending the values from DHT11 sensor(temperature and
 humidity) to PHPMYADMIN database.
 
@@ -12,5 +11,7 @@ and can be coded using ARDUINO IDE.
 systems.
 
 for detailed info check out -iot xampp.pdf 
+# Arduino Sketch
 nodemcu_iot.ino-https://raw.githubusercontent.com/1Vishal-singh1/XAMPP/main/nodemcu_iot/nodemcu_iot.ino
-dht.php-
+# Server portal
+dht.php-https://raw.githubusercontent.com/1Vishal-singh1/XAMPP/main/dht.php
