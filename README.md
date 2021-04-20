@@ -12,5 +12,5 @@ and can be coded using ARDUINO IDE.
 systems.
 
 for detailed info check out -iot xampp.pdf 
-nodemcu_iot.ino
-dht.php 
+nodemcu_iot.ino-https://raw.githubusercontent.com/1Vishal-singh1/XAMPP/main/nodemcu_iot/nodemcu_iot.ino
+dht.php-
